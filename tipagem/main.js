@@ -2,7 +2,7 @@
 // tipagem no Typescript
 //tipagem implicita
 let username = 'shaolin';
-username = 'flavioDoPneu';
+username = 'flavio';
 // tipagem explicita
 const pi = 3.1415;
 let logado = true;
